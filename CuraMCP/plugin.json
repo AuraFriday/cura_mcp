@@ -2,9 +2,10 @@
   "name": "Cura MCP",
   "author": "Christopher Nathan Drake",
   "version": "1.0.0",
-  "description": "Connects Cura to MCP-Link server for AI-driven slicing. Provides complete API access and Python execution capabilities for trusted AI agents.",
+  "description": "Control Cura with AI through natural language - load models, configure settings, and slice automatically. Works with any MCP-compatible AI tool. Demo: https://www.youtube.com/watch?v=U6yiY-5_0_8",
   "api": 8,
   "supported_sdk_versions": ["8.0.0", "8.1.0", "8.2.0", "8.3.0"],
-  "i18n-catalog": "cura"
+  "i18n-catalog": "cura",
+  "homepage": "https://github.com/AuraFriday/cura_mcp"
 }
 
